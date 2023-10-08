@@ -71,7 +71,7 @@ function main() {
 
           console.log("finished");
     } catch (err) {
-        return console.log(err.message);
+        console.log(err.message);
     }
 }
 
