@@ -1,4 +1,5 @@
 #! /usr/bin/env node
+// above statement is required for running this script as globally installed package
 
 const fs = require('fs');
 const yargs = require('yargs');
